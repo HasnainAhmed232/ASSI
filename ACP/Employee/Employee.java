@@ -63,14 +63,14 @@ public class Employee {
     }
 
     public String getEmployeeInfo() {
-        return "Employee ID: " + this.EmpID + "\n" +
-                "Employee Name: " + this.EmployeeName + "\n" +
-                "Father Name: " + this.FatherName + "\n" +
-                "Job Category: " + this.JobCategory + "\n" +
+        return "Employee id: " + this.EmpID + "\n" +
+                "Employee name: " + this.EmployeeName + "\n" +
+                "Father name: " + this.FatherName + "\n" +
+                "Job category: " + this.JobCategory + "\n" +
                 "Education: " + this.Education + "\n" +
                 "NIC: " + this.NIC + "\n" +
-                "Pay Scale: " + this.payScale + "\n" +
-                "Date of Birth: " + this.DateOfBirth + "\n";
+                "Pay scale: " + this.payScale + "\n" +
+                "Date of birth: " + this.DateOfBirth + "\n";
    
             }
 
